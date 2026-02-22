@@ -8,11 +8,9 @@
  ██║  ██║███████╗╚██████╔╝╚██████╔╝██║  ██║██║   ██║   ██║  ██║██║ ╚═╝ ██║
  ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
 ```
+---
 
-<p align="center">
-  <img src="assets/algorithm-cube.svg" alt="Algorithm 3D Cube" width="850">
-</p>
-
+---
 Welcome to my **Algorithm Lab & Practice Repository** 🚀  
 This repository is created for my university **Algorithm course**, where I store:
 
